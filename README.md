@@ -21,10 +21,10 @@ For my first challenge I was asked to refractor the codebase for Horiseon follow
 * Consolidated CSS selector's.
 
 
-Website link
+# Website link
+https://zac0088.github.io/Horiseon-webpage-challenge/
 
-
-Screeenshot
+# Screeenshot
 
 
 ![ScreenShot](/Assets/images/Horiseon%20Screenshot.png)
