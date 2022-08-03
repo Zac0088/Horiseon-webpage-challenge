@@ -5,20 +5,20 @@ For my first challenge I was asked to refractor the codebase for Horiseon follow
 # Acceptance Criteria #
 
 * Title element is accurate and descriptive.
-* Proper usage of semantic HTML elements.
-* Lgical structure of HTML elements.
+* Proper usage of semantic HTML element's.
+* Logical structure of HTML element's.
 * Image elements contain accesable alt attributes.
 * Heading elements fall in sequeantial order.
 * Website is Search engine optimized.
 
 # Work completed #
 
-* Added a Title and updated the header.
-* Added Alt attributes to images.
-* Refracted HTML file to follow Semantic elements.
+* Added a title and updated the header.
+* Added alt attributes to images.
+* Refracted HTML file to follow Semantic element's.
 * Eliminated unnecesary CSS clases.
 * Fixed broken internal link.
-* Consolidated CSS selectors.
+* Consolidated CSS selector's.
 
 
 Website link
@@ -27,3 +27,7 @@ Website link
 Screeenshot
 
 
+![ScreenShot](/Assets/images/Horiseon%20Screenshot.png)
+
+# Contact Page
+  [Zachary Smart on GitHub](https://github.com/Zac0088)
